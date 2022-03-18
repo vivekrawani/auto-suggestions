@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Hubballi&family=Montserrat:wght@300;600&family=Open+Sans&family=Poppins:wght@400;700&display=swap');
 
 body{
+    background-color: rgb(33, 33, 33);
     font-size: 1.5em;
     font-family: 'Open Sans', sans-serif;
     background-image: url("/nasa.jpg");
@@ -42,7 +43,7 @@ body{
   border-radius: 7%;
   font-size: 0.8rem;
   position: relative;
-  top: -4px;
+  top: -6px;
 background-image: linear-gradient(315deg, #7f5a83 0%, #0d324d 74%);
 
 
@@ -73,7 +74,7 @@ background-color: rgba(128, 128, 128, 0.404);
 .icon {
   width: 1.2em;
   position: relative;
-  top: 7px;
+  top: 5px;
  
 }
 
